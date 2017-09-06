@@ -5,7 +5,7 @@
 | Week  | Lecture | Practice Session | Homework / Project |
 |-------|---------|------------------|--------------------|
 | 9.5/7 | Introduction - what softwares do, requirements and challenges to make them good, safe, and reliable | Environment setup | HW1 out |
-| 9.12/4 | How to collaborate as a team and the methods and tools for it | Git + GitHub practice with basic javascript + python coding examples | |
+| 9.12/14 | How to collaborate as a team and the methods and tools for it | Git + GitHub practice with basic javascript + python coding examples | |
 | 9.19/21 | Good coding habits. Comments and code conventions | Typescript + Front-end lecture (with a sample provided backend) | Team formation, HW 1 due |
 | 9.26/28 | Complexity problem and software structures | Typescript + Front-end lecture cont’d | Project idea proposal due |
 | 10.3/5 | Choosuk - No class | | HW 2 due |
