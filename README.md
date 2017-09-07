@@ -1,5 +1,11 @@
 # M1522.000100 Principles and Practices of Software Development
 
+## Announcements
+
+## Assignments
+
+  - Sep. 07 : homework 1 is out
+
 ## Schedule
 
 | Week  | Lecture | Practice Session | Homework / Project |
