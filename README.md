@@ -2,7 +2,7 @@
 
 ## Announcements
 
-  - Sep. 07 : swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr is not created yet, so please use individual emails of TAs or issues board to ask questions.
+  - Sep. 07 : swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr are not created yet, so please use individual emails of TAs or issues board to ask questions.
 
 ## Assignments
 
