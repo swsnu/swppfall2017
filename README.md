@@ -2,6 +2,8 @@
 
 ## Announcements
 
+  - Sep. 07 : swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr is not created yet, so please use individual emails of TAs or issues board to ask questions.
+
 ## Assignments
 
   - Sep. 07 : [homework 1](hw1) is out
