@@ -3,6 +3,7 @@
 ## Announcements
 
   - Sep. 07 : swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr are not created yet, so please use individual emails of TAs or issues board to ask questions.
+  - Sep. 09 : there had been a minor change regarding the compilation of typescript files in the skeleton code of hw1. Please use the updated skeleton code for `form.html` with the updated instructions. The part marked as TODO are not changed.
 
 ## Assignments
 

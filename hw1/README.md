@@ -109,15 +109,14 @@ When you are done, you will get the following results:
 
 ### How to run TypeScript programs
 
-1. Go to the directory containing `form.ts`, `typescript.compile.dev.js`, and `typescript.min.js`, then call `$ python3 -m http.server ` on your terminal.
-2. On your favorite browser, open up `http://localhost:8000/form.html`.
+1. We assume that typescript is installed through npm: `$ npm install -g typescript`
+2. With this set up, you can compile the typescript program as followings: `$ tsc form.ts`, under the directory you are working on. It will generate a new `form.js` file.
+3. Validate that you have the newly generated `form.js` file, and you can use it in `form.html`, as provided in the skeleton code. In our case, you will simply need to open `form.html` on your favorite browser.
 
 Each of the files serve the following roles:
 
 - `form.html` : HTML file for layout for the form checking page.
 - `form.ts` : TypeScript file for form checking and using JS components.
-- `typescript.compile.dev.js` : Library for compiling TypeScript files on-the-go from HTML files (no need to modify!).
-- `typescript.min.js` : Library for compiling TypeScript files (no need to modify!).
 
 TIP: You will find `console.log()` function useful for printing and debugging. You will be able to access the console by using the developer tools and JavaScript console provided in each of the different browsers.
 
