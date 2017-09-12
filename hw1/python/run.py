@@ -17,9 +17,8 @@ if __name__ == '__main__':
     for location in locations:
         # Acquire weather data from crawlers
         data = JsonCrawler.get_by_name(location).get_data()
-        weathers = data['consolidated_weather']
-        for weather in weathers:
-            print(location, weather['created'], weather['weather_state_name'])
+        weather = data['consolidated_weather'][0]
+        print(location, weather['created'], weather['weather_state_name'])
 
     # You can stop a specific crawler
     JsonCrawler.get_by_name('seoul').kill()
@@ -29,6 +28,5 @@ if __name__ == '__main__':
         # Since crawler for 'seoul' is killed, `get_by_name` will return None
         if JsonCrawler.get_by_name(location):
             data = JsonCrawler.get_by_name(location).get_data()
-            weathers = data['consolidated_weather']
-            for weather in weathers:
-                print(location, weather['created'], weather['weather_state_name'])
+            weather = data['consolidated_weather'][0]
+            print(location, weather['created'], weather['weather_state_name'])
