@@ -50,6 +50,6 @@ Won Wook SONG (mainly TypeScript-related questions):
   - Office: Bldg. 302, Rm. 420-1
   - MonWed 2-3PM
 
-DongJin SHIN (mainly Python-related questions): 
-  - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
+DongJin SHIN (mainly Python-related questions)
+  - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
   - Tue 4-5PM
