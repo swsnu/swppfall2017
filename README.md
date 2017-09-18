@@ -42,10 +42,10 @@
 
 **TAs** :
 
-Won Wook SONG : 
+Won Wook SONG (mainly TypeScript-related questions): 
   - Office: Bldg. 302, Rm. 420-1
   - MonWed 2-3PM
 
-DongJin SHIN : 
+DongJin SHIN (mainly Python-related questions): 
   - Office: Bldg. 302, Rm. 420-1
   - Tu 4-5PM
