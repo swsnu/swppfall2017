@@ -13,6 +13,10 @@
     - **Due : 9/22 (Fri) 21:00 (hard deadline)**
     - This is an individual assignment
 
+  - Project proposal: [Guideline](https://github.com/swsnu/swppfall2017/blob/master/doc/projectproposal.md)
+    - **Due: 9/25 (Mon) 21:00 (hard deadline)**
+    - This is a team assignment
+
 ## Schedule
 
 | Week  | Lecture | Practice Session | Homework / Project |
