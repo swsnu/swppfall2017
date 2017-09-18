@@ -132,17 +132,17 @@ To complete this assignment, you will have to implement a form checker, with too
  With the given form, upon clicking on the `check` button, it should first produce a pop-up listing out which forms to check and correct (see requirements). Even when closing the pop-up, it should tell once something is wrong with the form, with  an 'X' icon next to each fields. Hovering the mouse over the icon should tell what is wrong with a tooltip (see requirements). If there is no problem with the form, it should show a modal indicating that it had been successfully submitted.
 You must only alter the code in the sections marked as TODO in the skeleton code and submit your code using GitHub. Do NOT alter the names of the forms in the provided HTML file. Refer to the HTML file to infer the form names.
 Specific **requirements** are as listed below.
-- Email: characters@characters.domain (characters other than @ followed by an @ sign, followed by more characters, and then a "." After the "." sign, you can only write 2 to 3 letters from a to z).
-- Password: Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters.
+- Email: characters@characters.domain (characters other than @ or whitespace followed by an @ sign, followed by more characters, and then a ".". After the "." sign, you can only write 2 to 3 letters from a to z).
+- Password: Must contain at least one number and one uppercase and one lowercase letter, and at least 8 or more characters.
 - Password Confirmation: Must match password.
-- Website: start with http:// or https:// followed by at least one character.
+- Website: Should start with http:// or https:// followed by at least one character.
 - Phone number: nnn-nnnn-nnnn: three numbers, then "-", followed by four numbers and a "-", then four numbers.
-- First name (English) : Start with a capital letter, followed by more than one lowercase letters. Should only contain alphabets (A-Z, a-z)
-- Last name (English) : Start with a capital letter, followed by more than one lowercase letters. Should only contain alphabets (A-Z, a-z)
+-  First name (English) : Start with a capital letter, followed by one or more lowercase letters. Should only contain alphabets (A-Z, a-z)
+- Last name (English) : Start with a capital letter, followed by one or more lowercase letters. Should only contain alphabets (A-Z, a-z)
 - Age : Must be a number between 0 and 200 (inclusive).
 - Birth date (Month) : Must be one of "January", "February", ..., "December"
-- Birth date (Day) : Must be a number of one or two digits
-- Birth date (Year) : Must be a number of four digits, between 1800 and 2017 (inclusive).
+- Birth date (Day) : Must be a number of one or two digits.
+- Birth date (Year) : Must be a number between 1800 and 2017 (inclusive).
 
 Tip: using regex might be useful for detecting wrong forms
 

@@ -33,3 +33,19 @@
 | 12.5/7 | Operation (load testing, security) | Data analytics | Project sprint 5 begin |
 | 12.12/14 | TBD | Coding exams (2 hours?) | |
 | 12.19 | Project poster session | | |
+
+
+## Office hours
+**Professor** : 
+  - Office: Bldg. 302, Rm. 322
+  - TuTh 10-11AM, by appointment
+
+**TAs** :
+
+Won Wook SONG : 
+  - Office: Bldg. 302, Rm. 420-1
+  - MonWed 2-3PM
+
+DongJin SHIN : 
+  - Office: Bldg. 302, Rm. 420-1
+  - Tu 4-5PM
