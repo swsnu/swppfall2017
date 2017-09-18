@@ -45,9 +45,19 @@ In real projects, it is best to handle diffent types of exceptions separatly dep
 However, we will implement a general exception handler for simplicity.
 
 This should be implemented as a decorator in order to be easily applied to other methods.
+Please check out [this document](https://www.programiz.com/python-programming/decorator) to understand how to implement python decorator.
 If any exception occurs in decorated functions, it should handle the exception and print it, rather than leaving the exception to be propagated.
 
 For detailed information, check the execution example below.
+
+#### `get_by_name`
+
+This method returns the crawler instance identified with the given name.
+The name of each crawler is provided in intialization, and you have to save name-instance mapping in `__init__` using the given class variable `crawlers` dictionary.
+After that you can acquire the instance by name.
+
+This method should be implemented as class method.
+Please check out [this document](https://www.programiz.com/python-programming/methods/built-in/classmethod) to understand how class method works.
 
 #### Usage
 
