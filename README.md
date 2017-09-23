@@ -7,6 +7,7 @@
   - Sep. 13 : there was a minor bug in the python skeleton code of hw1, which didn't print as same as sample output (each location printed multiple weathers). The parts marked as TODO are not changed.
   - Sep. 14 : swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr are now available.
   - Sep. 18 : Additional description was added in HW1 description for guidance.
+  - Sep. 23 : Homework 2 is posted!
 
 ## Assignments
 
@@ -17,6 +18,11 @@
   - Project proposal: [Guideline](https://github.com/swsnu/swppfall2017/blob/master/doc/projectproposal.md)
     - **Due: 9/25 (Mon) 21:00 (hard deadline)**
     - This is a team assignment
+
+  - Sep. 23 : [homework 2](hw2) is out
+    - **Due : 10/7 (Sat) 20:59 (hard deadline)**
+    - This is an individual assignment
+
 
 ## Schedule
 
@@ -49,7 +55,7 @@
 
 Won Wook SONG (mainly TypeScript-related questions): 
   - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
-  - Tue 4-5PM (Please send me an email ahead of time)
+  - MonWed 4-5PM (Please send me an email ahead of time)
 
 DongJin SHIN (mainly Python-related questions)
   - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
