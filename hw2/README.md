@@ -147,4 +147,4 @@ Please name your repository as `swpp-hw2-YOUR_USERNAME`, and replace YOUR_USERNA
 Refer to HW1 to create another private repository.
 
 Please put your angular application files in the root folder (not inside another `hw2` or `skeleton` folder) and push your commits on time, appropriately.
-Make sure to push your work on Github on time. You won't need to send us an email for submission, but we will pull each repositories at the time specified.
+Make sure to push your work on Github on time **and don't forget to add `wonook` as a collaborator in your repository settings!** You won't need to send us a separate email for submission, but we will pull each repositories at the time specified.
