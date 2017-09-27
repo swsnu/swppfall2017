@@ -10,7 +10,7 @@ The `in-memory-data.service.ts` file is added to provide mock-backend for you to
 
 ## Development server
 
-Run `ng serve` or `npm start` for a dev server. (If it fails, try `npm install` first.) Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` or `npm start` for a dev server. **(If it fails, try `npm install` first.)** Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

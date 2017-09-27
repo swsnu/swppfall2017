@@ -55,7 +55,9 @@
 
 Won Wook SONG (mainly TypeScript-related questions): 
   - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
-  - MonWed 4-5PM (Please send me an email ahead of time)
+  - MonWed 4-5PM (Please send me an [email](mailto:wsong0512@gmail.com) ahead of time, as I probably will be working in my laboratory)
+  - During choosuk break:
+    - I will be having a 'virtual office hour' online : please send me an [email](mailto:wsong0512@gmail.com) ahead of time. I'll be available Monday and Friday @ 2-3PM.
 
 DongJin SHIN (mainly Python-related questions)
   - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
