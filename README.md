@@ -8,6 +8,7 @@
   - Sep. 14 : swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr are now available.
   - Sep. 18 : Additional description was added in HW1 description for guidance.
   - Sep. 23 : Homework 2 is posted!
+  - Sep. 29 : Homework 2 due extended! :)
 
 ## Assignments
 
@@ -20,7 +21,7 @@
     - This is a team assignment
 
   - Sep. 23 : [homework 2](hw2) is out
-    - **Due : 10/7 (Sat) 20:59 (hard deadline)**
+    - **Due : 10/11 (Wed) 20:59 (hard deadline)**
     - This is an individual assignment
 
 

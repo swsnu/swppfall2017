@@ -1,6 +1,6 @@
 # Homework 2 - Angular2
 
-#### **Due: 10/7 (Sat) 20:59 (This is a hard deadline)**
+#### **Due: 10/11 (Wed) 20:59 (This is a hard deadline)**
 
 You will implement a front-end for a blogging service using Angular2. This is an **individual** assignment.
 This assignment will help you
@@ -140,7 +140,7 @@ This assignment is composed of a total of 70 points:
 
 ## Submission
 
-**Due: 10/7 (Sat) 20:59 (This is a hard deadline)**
+**Due: 10/11 (Wed) 20:59 (This is a hard deadline)**
 
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Please name your repository as `swpp-hw2-YOUR_USERNAME`, and replace YOUR_USERNAME with you own GitHub username.
