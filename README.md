@@ -1,5 +1,7 @@
 # M1522.000100 Principles and Practices of Software Development
 
+[Project](project/project.md)
+
 ## Announcements
 
   - Sep. 07 : ~~swpp-staff@spl.snu.ac.kr and swpp-tas@spl.snu.ac.kr are not created yet, so please use individual emails of TAs or issues board to ask questions.~~
