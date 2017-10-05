@@ -21,7 +21,8 @@ You are required to create a total of five pages as shown in the below storyboar
     - `password`
   - As we don't have a proper backend, we don't do real, security-aware authentication yet, but users should only be able to log in with an account with an email of 'swpp@snu.ac.kr' and password of 'iluvswpp'.
   - After signing in, users should find themselves at the articles list page.
-  - This is the only page that unauthorized users will have access to.
+  - **This is the only page that unauthorized users will have access to.**
+    - Unauthorized users trying to access any other pages should be redirected to this page!
 - Articles list page (/articles)
   - Users should be able to clearly make out the followings:
     - `article` `id`s
