@@ -11,6 +11,7 @@
   - Sep. 18 : Additional description was added in HW1 description for guidance.
   - Sep. 23 : Homework 2 is posted!
   - Sep. 29 : Homework 2 due extended! :)
+  - Oct. 10 : Homework 3 is posted.
 
 ## Assignments
 
@@ -24,6 +25,10 @@
 
   - Sep. 23 : [homework 2](hw2) is out
     - **Due : 10/11 (Wed) 20:59 (hard deadline)**
+    - This is an individual assignment
+    
+  - Oct. 10 : [homework 3](hw3) is out
+    - **Due : 10/25 (Wed) 20:59 (hard deadline)**
     - This is an individual assignment
 
 
