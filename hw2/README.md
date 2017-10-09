@@ -48,7 +48,7 @@ You are required to create a total of five pages as shown in the below storyboar
     - user should make out the followings on the page:
       - `comment` `author` `name`
       - `comment` `content`
-  - Edit/Delete button for the article
+  - Edit/Delete button for the article (only for the author)
   - Upon clicking 'back', user should be able to go back to the articles list page.
 - Article edit page (/articles/:id/edit)
   - You must receive and edit the following fields:
