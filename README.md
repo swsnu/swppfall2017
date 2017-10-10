@@ -24,7 +24,7 @@
     - This is a team assignment
 
   - Sep. 23 : [homework 2](hw2) is out
-    - **Due : 10/11 (Wed) 20:59 (hard deadline)**
+    - **Due : 10/15 (Sun) 20:59 (hard deadline)**
     - This is an individual assignment
     
   - Oct. 10 : [homework 3](hw3) is out
@@ -62,10 +62,7 @@
 **TAs** :
 
 Won Wook SONG (mainly TypeScript-related questions): 
-  - Office: Bldg. 302, Rm. 311-1 (Software laboratory)
-  - MonWed 4-5PM (Please send me an [email](mailto:wsong0512@gmail.com) ahead of time, as I probably will be working in my laboratory)
-  - During choosuk break:
-    - I will be having a 'virtual office hour' online : please send me an [email](mailto:wsong0512@gmail.com) ahead of time. I'll be available Monday and Friday @ 2-3PM.
+  - MonWed 4-5PM (Please send me an [email](mailto:wsong0512@gmail.com) ahead of time, we can set up a specific time and place)
 
 DongJin SHIN (mainly Python-related questions)
   - Office: Bldg. 302, Rm. 311-1 (Software laboratory)

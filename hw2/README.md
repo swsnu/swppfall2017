@@ -1,6 +1,6 @@
 # Homework 2 - Angular2
 
-#### **Due: 10/11 (Wed) 20:59 (This is a hard deadline)**
+#### **Due: 10/15 (Sun) 20:59 (This is a hard deadline)**
 
 You will implement a front-end for a blogging service using Angular2. This is an **individual** assignment.
 This assignment will help you
@@ -22,7 +22,7 @@ You are required to create a total of five pages as shown in the below storyboar
   - As we don't have a proper backend, we don't do real, security-aware authentication yet, but users should only be able to log in with an account with an email of 'swpp@snu.ac.kr' and password of 'iluvswpp'.
   - After signing in, users should find themselves at the articles list page.
   - **This is the only page that unauthorized users will have access to.**
-    - Unauthorized users trying to access any other pages should be redirected to this page!
+    - Unauthorized users trying to access _any_ other pages should be redirected to this page! (use '\*\*'!)
 - Articles list page (/articles)
   - Users should be able to clearly make out the followings:
     - `article` `id`s
@@ -44,7 +44,7 @@ You are required to create a total of five pages as shown in the below storyboar
     - `article` `content`
     - `author` `name`
   - Comments list of the corresponding article
-    - Simple comments functionality (Create for everyone / Edit/Delete for the comment author)
+    - Simple comments functionality (Create for everyone / Edit/Delete buttons for the comment author)
     - user should make out the followings on the page:
       - `comment` `author` `name`
       - `comment` `content`
@@ -142,7 +142,7 @@ This assignment is composed of a total of 70 points:
 
 ## Submission
 
-**Due: 10/11 (Wed) 20:59 (This is a hard deadline)**
+**Due: 10/15 (Sun) 20:59 (This is a hard deadline)**
 
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Please name your repository as `swpp-hw2-YOUR_USERNAME`, and replace YOUR_USERNAME with you own GitHub username.
