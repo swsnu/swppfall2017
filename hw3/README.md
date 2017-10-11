@@ -1,6 +1,6 @@
 # Homework 3 - Django
 
-**Due: 10/25 (Wed) 20:59 (This is a hard deadline)**
+**Due: 11/3 (Fri) 20:59 (This is a hard deadline)**
 
 In this assignment you will implement a backend service for the blog frontend that you have created in homework 2.
 This is an **individual** assignment.
@@ -75,7 +75,7 @@ This assignment is composed of a total of 70 points.
 
 ## Submission
 
-**Due: 10/25 (Wed) 20:59 (This is a hard deadline)**
+**Due: 11/3 (Fri) 20:59 (This is a hard deadline)**
 
 Please name your repository as `swpp-hw3-YOUR_USERNAME`, and replace `YOUR_USERNAME` with your own GitHub username.
 Refer to HW1 to create another private repository.
