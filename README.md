@@ -28,7 +28,7 @@
     - This is an individual assignment
     
   - Oct. 10 : [homework 3](hw3) is out
-    - **Due : 10/25 (Wed) 20:59 (hard deadline)**
+    - **Due : ~~10/25 (Wed)~~ 11/3 (Fri) 20:59 (hard deadline)**
     - This is an individual assignment
 
 
